@@ -1,6 +1,6 @@
 -- Define the list of whitelisted user IDs with expiration time
 local WhitelistedUserIds = {
-    ["470784963"] = os.time() + 3600, -- Add an hour to the current time
+    ["470784963"] = os.time() + 4200, -- Add an hour to the current time
     -- Add more whitelisted user IDs here if needed
 }
 
